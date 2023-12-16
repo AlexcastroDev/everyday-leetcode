@@ -29,17 +29,26 @@ public class Solution {
 }
 ```
 
-Notation:
+### Notation:
+
 1 - O(1) - Equality constant
+
 2 - O (n) - n is the length of s
+
 3 - O (m) - m is the length of t
+
 4 - O(n * m) - n is the length of s, m is the length of t
+
 5 - O(1) - result.Count is a constant
 
-## Test Result
+### Test Result
+
 Runtime: 40.66MB
-Memory: 
+
+Memory: 104MS
+
 Beats 6.38% of users with C#
+
 Beats 26.75% of users with C#
 
 # Second try
@@ -52,15 +61,22 @@ public class Solution {
 }
 ```
 
-Notation:
+### Notation
+
 1 - O (n log n)
+
 2 - O (n log n) - both sort are O(n log n)
+
 3 - O(n) - equailty
 
-## Test Result
+### Test Result
+
 Runtime: 108ms
+
 Memory: 42.96MB
+
 Beats 14.91% of users with C#
+
 Beats 12.55% of users with C#
 
 <img src="./explain.jpg">
@@ -101,15 +117,21 @@ public class Solution {
 }
 ```
 
-Notation:
+# Notation
 1 - O (n) - size of s
+
 2 - O (n) - size of t
+
 3 - O (n) - equailty
 
-## Test Result
+### Test Result
+
 Runtime: 65ms
+
 Memory: 39.97MB
+
 Beats 37.16%of users with C#
+
 Beats 55.99%of users with C#
 
 <img src="./explain2.jpg">

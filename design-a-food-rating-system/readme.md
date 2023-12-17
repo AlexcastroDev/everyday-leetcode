@@ -371,7 +371,11 @@ namespace FoodRatings
 Time Limit Exceeded
 
 
-I give up. The solution i found based on priority queue written in Java
+# Solution
+
+I give up. 
+
+The solution i found based on priority queue written in Java
 
 Link: https://leetcode.com/problems/design-a-food-rating-system/solutions/4414602/beats-100-explained-with-video-hashmap-priority-queue-c-java-python-js-visualized/
 

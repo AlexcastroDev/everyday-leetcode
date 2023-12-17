@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodRatings", "FoodRatings\FoodRatings.csproj", "{8D2BDC8C-9624-4793-A33D-E8A745D60793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodRatingTest", "FoodRatingTest\FoodRatingTest.csproj", "{FB3EA80B-308E-41CF-925F-DE1B8EB387FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D2BDC8C-9624-4793-A33D-E8A745D60793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2BDC8C-9624-4793-A33D-E8A745D60793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2BDC8C-9624-4793-A33D-E8A745D60793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2BDC8C-9624-4793-A33D-E8A745D60793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3EA80B-308E-41CF-925F-DE1B8EB387FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3EA80B-308E-41CF-925F-DE1B8EB387FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3EA80B-308E-41CF-925F-DE1B8EB387FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3EA80B-308E-41CF-925F-DE1B8EB387FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

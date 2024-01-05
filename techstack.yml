@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/everyday-leetcode
 report_id: 554ddda7e5ad49c82b70d6e402ffaabb
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T14:19:56+00:00'
+timestamp: '2024-01-05T08:11:49+00:00'
 requested_by: AlexcastroDev
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/AlexcastroDev/everyday-leetcode
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -28,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/AlexcastroDev/everyday-leetcode/blob/main/design-a-food-rating-system/code/FoodRatingTest/FoodRatingTest.csproj
   detection_source: design-a-food-rating-system/code/FoodRatingTest/FoodRatingTest.csproj
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-12-17 23:43:59.000000000 Z
@@ -69,6 +71,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AlexcastroDev/everyday-leetcode
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -78,6 +81,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/AlexcastroDev/everyday-leetcode/blob/main/design-a-food-rating-system/code/FoodRatingTest/FoodRatingTest.csproj
   detection_source: design-a-food-rating-system/code/FoodRatingTest/FoodRatingTest.csproj
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-12-17 23:43:59.000000000 Z
@@ -90,6 +94,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/AlexcastroDev/everyday-leetcode/blob/main/design-a-food-rating-system/code/FoodRatings.sln
   detection_source: design-a-food-rating-system/code/FoodRatings.sln
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-12-17 23:43:59.000000000 Z
